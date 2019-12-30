@@ -95,6 +95,5 @@ public class CollectionsDemo {
                 (k,v) -> System.out.println("Fruit: " + k + ", Calories: " + v)
         );
 
-
     }
 }
